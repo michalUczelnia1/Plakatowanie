@@ -1,0 +1,11 @@
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.csprojAssemblyReference.cache
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.csproj.CoreCompileInputs.cache
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.AssemblyInfoInputs.cache
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.AssemblyInfo.cs
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/bin/Debug/netcoreapp2.0/Plakatowanie.deps.json
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/bin/Debug/netcoreapp2.0/Plakatowanie.runtimeconfig.json
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/bin/Debug/netcoreapp2.0/Plakatowanie.runtimeconfig.dev.json
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/bin/Debug/netcoreapp2.0/Plakatowanie.dll
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/bin/Debug/netcoreapp2.0/Plakatowanie.pdb
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.dll
+/Users/michalm/Projects/Plakatowanie/Plakatowanie/obj/Debug/netcoreapp2.0/Plakatowanie.pdb
